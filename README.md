@@ -16,8 +16,8 @@ The code is organized as follows:
 
 - **data/**: Contains the datasets (Robust, TREC678) used for evaluation.
 - **src/**: The main implementation of the TF-IDF weighting scheme.
-  - `tfidf.py`: The core implementation of the novel TF-IDF weighting algorithm.
-  - `evaluation.py`: Scripts for evaluating the performance on different datasets.
+  - `mtc2313-indexer.py`: The core implementation of indexing documents.
+  - `mtc2313-searcher (1).py`: The core implementation of the novel TF-IDF weighting algorithm and give the valid documents as per the policy.
 - **results/**: Stores the output results, including the performance metrics.
 - **README.md**: Documentation and instructions for running the project (this file).
 
