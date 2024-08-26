@@ -1,0 +1,65 @@
+Robust
+runid                   all     cs2313
+num_q                   all     79
+num_ret                 all     7698
+num_rel                 all     2630
+num_rel_ret             all     778
+map                     all     0.1771
+gm_map                  all     0.0462
+Rprec                   all     0.2244
+bpref                   all     0.1981
+recip_rank              all     0.7192
+iprec_at_recall_0.00    all     0.7534
+iprec_at_recall_0.10    all     0.5153
+iprec_at_recall_0.20    all     0.3365
+iprec_at_recall_0.30    all     0.2280
+iprec_at_recall_0.40    all     0.1579
+iprec_at_recall_0.50    all     0.1271
+iprec_at_recall_0.60    all     0.1031
+iprec_at_recall_0.70    all     0.0820
+iprec_at_recall_0.80    all     0.0542
+iprec_at_recall_0.90    all     0.0105
+iprec_at_recall_1.00    all     0.0020
+P_5                     all     0.4608
+P_10                    all     0.3506
+P_15                    all     0.2903
+P_20                    all     0.2506
+P_30                    all     0.2021
+P_100                   all     0.0811
+P_200                   all     0.0435
+P_500                   all     0.0191
+P_1000                  all     0.0098
+
+TREC678
+runid                   all     cs2313
+num_q                   all     97
+num_ret                 all     11371
+num_rel                 all     3632
+num_rel_ret             all     1021
+map                     all     0.1660
+gm_map                  all     0.0439
+Rprec                   all     0.2145
+bpref                   all     0.1879
+recip_rank              all     0.7126
+iprec_at_recall_0.00    all     0.7470
+iprec_at_recall_0.10    all     0.4956
+iprec_at_recall_0.20    all     0.3239
+iprec_at_recall_0.30    all     0.2101
+iprec_at_recall_0.40    all     0.1455
+iprec_at_recall_0.50    all     0.1149
+iprec_at_recall_0.60    all     0.0891
+iprec_at_recall_0.70    all     0.0668
+iprec_at_recall_0.80    all     0.0442
+iprec_at_recall_0.90    all     0.0085
+iprec_at_recall_1.00    all     0.0016
+P_5                     all     0.4577
+P_10                    all     0.3515
+P_15                    all     0.2935
+P_20                    all     0.2541
+P_30                    all     0.2052
+P_100                   all     0.0861
+P_200                   all     0.0468
+P_500                   all     0.0203
+P_1000                  all     0.0105
+
+
